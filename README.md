@@ -3,7 +3,7 @@
 A simple and interactive Tic Tac Toe game built with **React 19**. Challenge your friends and enjoy a smooth gameplay experience in your browser.
 
 ## 🚀 Live Demo
-[Play Now](https://your-tictactoe-demo-link.netlify.app) *(Replace with your live link)*
+[Play Now](https://tic-tac-toe-lphg.onrender.com) *(Replace with your live link)*
 
 ---
 
